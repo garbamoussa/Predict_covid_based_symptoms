@@ -1,0 +1,799 @@
+,id,country,age,sex,symptoms,date_onset_symptoms,date_admission_hospital,outcome,date_death_or_discharge,dataset
+"33,34,China,49,female,""chest discomfort, cough, fever"",23/12/2019,27/12/2019,discharged,16/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"59,60,China,15-88,female,""dyspnea, respiratory stress"",10/12/2019,31/12/2019,died,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"60,61,China,66,male,""cough, fatigue, fever, headache"",10/01/2020,16/01/2020,died,20/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"61,62,China,48,female,""cough, fatigure, fever, little sputum, muscular soreness"",10/12/2019,10/12/2019,died,20/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+62,63,China,89,male,dyspnea,13/01/2020,18/01/2020,died,19/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+"64,65,China,69,male,""cough, fever"",30/12/2019,03/01/2020,died,15/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"65,66,China,89,male,""obnubilation, somnolence"",05/01/2020,05/01/2020,died,18/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"66,67,China,75,male,""cough, expectoration, emesis, fever"",06/01/2020,11/01/2020,died,20/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"67,68,China,82,male,""cold chills, muscular soreness"",09/01/2020,14/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+68,69,China,66,male,dry cough,22/12/2019,31/12/2019,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+69,70,China,81,male,fever,15/01/2020,18/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+"70,71,China,82,female,""chest distress, cough, fatigue, fever"",03/01/2020,06/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"71,72,China,65,male,""fatigue, shortness of breath"",05/01/2020,11/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"72,73,China,80,female,""cough, fever, grasp, dyspnea"",11/01/2020,18/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"73,74,China,53,male,""chest distress, cough, fever"",01/01/2020 - 31/01/2020,13/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+74,75,China,86,male,fatigue,02/01/2020,09/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+75,76,China,70,female,fever,,13/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+"76,77,China,84,male,""cough, fever, grasp"",06/01/2020,09/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"214,215,China,70,male,""cough, fever"",15/01/2020,19/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+215,216,China,76,female,fever,18/01/2020,05/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+"216,217,China,72,male,""cough, fever"",11/01/2020,18/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"217,218,China,79,male,""cough, fever, gasp"",11/01/2020,17/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"218,219,China,55,male,""cough, fever"",08/01/2020,19/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"219,220,China,87,male,""diarrhea, fever"",12/01/2020,19/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"220,221,China,66,female,""chest distress, fever"",09/01/2020,19/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"221,222,China,58,male,""chest distress, cough, fever, gasp"",03/01/2020,18/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"222,223,China,66,male,""cough, fever"",11/01/2020,11/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"223,224,China,78,male,""cough, fever"",13/01/2020,23/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"224,225,China,65,male,""cough, fever, sensation of chill"",12/01/2020,16/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"225,226,China,67,male,""dizziness, fever"",10/01/2020,15/01/2020,died,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"226,227,China,58,male,""cough, expectoration, fever"",22/12/2019,01/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+227,228,China,67,female,fever,05/01/2020,12/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+"228,229,China,82,female,""chest distress, chest pain, fever, weak, dyspnea"",10/01/2020,17/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"230,231,China,69,female,""cough, fever, muscular soreness"",,14/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"231,232,China,36,male,""fatigue, fever"",06/01/2020,09/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+"232,233,China,73,male,""cough, fever, dyspnea"",29/12/2019,05/01/2020,died,22/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true"
+233,234,China,70,female,fever,18/01/2020,21/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+234,235,China,81,male,fever,10/01/2020,13/01/2020,died,21/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+547,548,China,65,female,primary myelofibrosis,,13/01/2020,died,23/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-hubei.csv?raw=true
+5,6,China,,,pneumonia,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+6,7,China,42,female,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+8,9,China,59,female,fever,19/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+10,11,China,,,pneumonia,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+13,14,China,38,female,cough,22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+14,15,China,45,male,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+17,18,China,33,female,fever,,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"18,19,China,,female,""fatigue, fever, headache"",08/01/2020,08/01/2020,discharged,24/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+20,21,China,37,male,fever,14/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+21,22,China,39,male,fever,09/01/2020,14/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+22,23,China,32,female,respiratory symptoms,17/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+23,24,China,45,male,fever,19/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+24,25,China,45,male,fever,19/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"25,26,China,18,female,""fever, respiratory symptoms"",19/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"26,27,China,56,female,""fever, respiratory symptoms"",16/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+27,28,China,42,male,fever,20/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+28,29,China,33,female,fever,,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"55,56,China,44,female,""fatigue, fever"",15/01/2020,15/01/2020,discharged,29/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"88,89,China,43,male,""discomfort, fever"",18/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"89,90,China,24,male,""cough, fever, headache, muscular soreness, weak"",16/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"90,91,China,40,male,""cough, dizziness"",10/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"98,99,China,66,male,""cough, fatigue, fever, weakness"",04/01/2020,10/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"99,100,China,65,female,""cough, fever, weakness"",03/01/2020,10/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"100,101,China,36,male,""cough, diarrhea, fever, rhinorrhoea, sneezing"",01/01/2020,11/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"102,103,China,63,female,""anhelation, cough, fever, pleural effusion, weakness"",08/01/2020,15/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"103,104,China,37,female,""diarrhea, fever, nasal congestion, pleuritic chest pain, sore throat"",02/01/2020,11/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+121,122,China,66,female,cough,13/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"144,145,China,63,male,""cough, fever"",14/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"145,146,China,62,female,""cough, fever"",09/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+146,147,China,49,male,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+147,148,China,46,male,fever,20/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"149,150,China,34,male,""cough, fever"",19/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+150,151,China,41,male,fever,20/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"151,152,China,72,female,""fever, weak"",19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"152,153,China,20,female,""cough, fever, muscular soreness"",22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"153,154,China,54,male,""cough, fever"",22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+154,155,China,33,female,fever,19/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"155,156,China,49,female,""chest distress, cough, expectoration, muscular soreness"",21/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"159,162,China,33,male,""cough, headache"",19/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"160,163,China,2,female,""fever, sneeze"",22/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+161,164,China,29,male,discomfort,23/01/2020,23/01/2020,discharge,28/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"162,165,China,62,male,""cough, muscular stiffness, weak"",15/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+163,166,China,61,male,fever,21/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+164,167,China,20,male,discomfort,18/01/2020,18/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+165,168,China,51,male,fever,14/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+166,169,China,50,female,fever,14/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"170,173,China,72,male,""cough, fever"",19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"171,174,China,80,male,""chest distress, dyspnea"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"172,175,China,49,male,""cough, expectoration, fever"",22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"173,176,China,69,male,""cough, fatigue, fever, sputum"",,12/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"176,179,China,66,male,""chest tightness, dyspnea, fever"",29/12/2019,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"185,192,China,39,male,""cough, fever"",21/01/2020,21/01/2020,died,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+186,193,China,56,male,fever,18/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+187,194,China,62,female,fever,,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"190,197,China,57,female,""cough, fever"",,16/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+215,222,China,37,male,fever,10/01/2020,10/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"224,231,China,56,male,""cough, fever"",,10/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"225,232,China,50,male,""cough, fever"",10/01/2020,10/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"234,241,China,27,male,""fever, weak"",21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"235,242,China,40,female,""cough, fever"",22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"242,249,China,42,female,""cough, fever"",19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"245,252,China,33,male,""cough, fever"",11/01/2020,17/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"246,253,China,40,male,""cough, fever, soreness"",14/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+247,254,China,50,female,pharynx,16/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+248,255,China,42,male,muscular soreness,19/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"250,257,China,52,female,""cough, sore throat"",12/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+252,259,China,28,male,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+253,260,China,22,male,fever,20/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+254,261,China,32,female,fever,16/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+255,262,China,42,male,fever,20/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+258,265,China,38,male,fever,20/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+259,266,China,62,female,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+260,267,China,65,male,fever,21/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"273,280,China,56,female,""fatigue, fever, weakness"",,15/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"274,281,China,35,male,""cough, fever, runny nose"",16/01/2020,16/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"293,300,China,,male,""fever, headache"",19/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+294,301,China,28,female,fever,19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+295,302,China,31,male,fever,11/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"296,303,China,50,male,""cough, dyspnea, fever"",18/01/2020,18/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+297,304,China,48,male,fever,18/01/2020,18/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"298,305,China,36,male,""fatigue, fever"",18/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"300,307,China,37,male,""chills, fever, muscle aches, other symptoms"",,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"301,308,China,19,male,""fatigue, muscle aches, sore throat"",,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"302,309,China,60,female,""cough, fever"",,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"303,310,China,58,male,""cough, fever"",,14/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+306,313,China,29,female,fever,24/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"309,316,China,47,male,""fever, sore muscle, weakness"",20/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"310,317,China,52,male,""fever, sore muscle, weakness"",19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"311,318,China,51,male,""fatigue, fever"",,16/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"312,319,China,53,male,""cough, fever"",16/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"313,320,China,39,female,""systemic weakness, runny nose, fever"",18/01/2020,22/01/2020,discharged,03/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+336,343,China,46,male,fever,04/01/2020,04/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+337,344,China,46,male,fever,04/01/2020,17/01/2020,discharged,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+459,466,China,25,female,fever,22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+464,471,China,43,male,fever,23/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"465,472,China,22,male,""fever, sore throat"",21/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"467,474,China,51,male,""fever, muscular soreness, rigor"",18/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"468,475,China,38,male,""chills, diarrhea, dyspnea, headache, lack of energy, muscle pain"",20/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"469,476,China,59,male,""cough, fever"",19/01/2020,21/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"470,477,China,60,male,""cough, fatigue, fever"",18/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+471,478,China,35,male,fever,19/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"472,479,China,25,female,""fever, pharyngalgia"",21/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+594,601,China,64,female,pneumonitis,10/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+596,603,China,28,male,pneumonia,21/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+597,604,China,41,male,pneumonia,14/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+610,617,China,49,male,fever,21/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"618,625,China,65,female,""cough, discomfort, fever, other symptoms"",16/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+638,645,France,48,male,flu-like symptoms,23/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"639,646,France,30,female,""chills, cough, fatigue, fever"",23/01/2020,24/01/2020,Discharged,12/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"640,647,France,31,male,""chills, conjunctivitis, cough, fever"",19/01/2020,24/01/2020,Discharged,12/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"641,648,Japan,40,male,""fever, pneumonia, sore throat"",14/01/2020,20/01/2020,discharged,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"642,649,Japan,30,male,""cough, fever, sore throat"",03/01/2020,10/01/2020,discharged,15/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"643,650,Japan,30-39,female,""cough, fever"",14/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+644,651,Malaysia,65,female,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+645,652,Malaysia,2,male,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+646,653,Malaysia,11,male,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"647,654,Nepal,32,male,""cough, fever, shortness of breath"",09/01/2020,13/01/2020,discharged,17/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"648,655,Singapore,66,male,""cough, fever"",21/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"649,656,Singapore,53,female,""cough, fever"",21/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"651,658,South Korea,35,female,""cough, fever"",18/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+652,659,South Korea,55,male,fever,10/01/2020,23/01/2020,05.02.2020,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"653,660,,55,female,""cough, fever, shortness breath"",11/01/2020,20/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+657,664,Thailand,68,male,fever,19/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"658,665,Thailand,61,female,""chills, fever, headache, sore throat"",05/01/2020,08/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"660,667,Thailand,33,female,""coughing, fever, muscle aches"",21/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"662,669,United States,35,male,""cough, fever, nausea"",16/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"665,672,Malaysia,40,male,""cough, fever"",,,discharged,08/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"671,678,Thailand,51,male,""cough, fever, myalgia"",20/01/2020,28/01/2020,discharged,05/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+672,679,Thailand,73,female,fever,,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"675,682,South Korea,54,male,""chills, fever"",22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"677,684,Japan,40,male,""fever, joint pain, pneumonia"",23/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+876,883,China,43,male,fever,22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+877,884,China,48,female,fever,19/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+878,885,China,54,female,fever,18/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+879,886,China,47,male,fever,22/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+880,887,China,55,male,fever,18/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"881,888,China,47,female,""cough, fever"",22/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+882,889,China,46,female,fever,19/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"949,956,China,47,female,""fever,  fatigue,  dry cough"",23/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1004,1011,China,70,female,pneumonitis,23/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1005,1012,China,52,female,pneumonitis,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1010,1017,China,44,male,pneumonitis,18/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1049,1056,China,58,female,fever,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1050,1057,China,39,female,fever,22/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1051,1058,China,21,female,""dizziness, sore limbs"",25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1053,1060,,50-59,female,pneumonia,22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1077,1084,China,68,female,""cough, fever"",21/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1078,1085,China,64,male,fever,24/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1080,1087,Cambodia,60,male,""fever, runny nose"",26/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1289,1296,China,44,female,fever,24/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1290,1297,China,53,male,fever,14/01/2020,19/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1377,1394,China,39,male,pneumonia,23/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1378,1395,China,41,female,pneumonia,22/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1380,1397,China,27,male,pneumonitis,22/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1440,1463,,52,female,""cough, fever, myalgia, rhinorrhea, sore throat"",25/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"1462,1485,Germany,33,male,""chills, fever, myalgias, sore throat"",24/01/2020,,discharged,27/01/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"1463,1486,South Korea,55,male,""aching muscles, fever, pneumonia"",21/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1488,1511,China,28,male,dry cough,22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1654,1678,China,59,female,fever,26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1655,1679,China,38,male,fever,26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1656,1680,China,37,male,fever,26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1657,1681,China,49,male,fever,26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1658,1682,China,43,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1659,1683,China,39,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1660,1684,China,41,male,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1661,1685,China,67,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1662,1686,China,52,female,fever,26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1663,1687,China,31,male,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1664,1688,China,34,female,fever,23/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1665,1689,China,24,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1666,1690,China,47,male,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1667,1691,China,16,male,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1668,1692,China,32,male,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1669,1693,China,32,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1670,1694,China,25,male,fever,24/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1671,1695,China,52,female,fever,24/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1672,1696,China,42,female,fever,25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1673,1697,China,51,male,fever,24/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1674,1698,China,43,male,fever,24/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1747,1771,Japan,60-69,male,""chills, cough, joint pain"",14/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"1748,1772,Japan,40-49,female,""cough, fever, pneumonia"",26/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"1794,1818,China,,female,""fever, sore throat"",23/01/2020,23/01/2020,discharged,07/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+1810,1834,China,36,male,pneumonitis,25/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1811,1835,China,41,female,pneumonitis,24/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1812,1836,China,25,male,pneumonitis,21/01/2020,22/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1813,1837,China,46,female,pneumonitis,18/01/2020,18/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1814,1838,China,50,male,pneumonitis,22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1815,1839,China,36,female,pneumonitis,20/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1816,1840,China,36,male,pneumonitis,20/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1817,1841,China,32,female,pneumonitis,25/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1818,1842,China,64,male,pneumonitis,22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1819,1843,China,70,male,pneumonitis,25/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+1820,1844,China,25,male,pneumonitis,22/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"1997,2021,,50,male,""myalgia, rhinorrhea"",25/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+2991,3020,South Korea,33,male,cough,26/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+3023,3052,China,72,male,fever,25/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+3024,3053,China,73,female,fever,25/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"3275,3333,Russia,,,""acute respiratory viral infection, fever"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"3276,3334,Russia,,,""acute respiratory viral infection, fever"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+3378,3436,China,33,male,fever,,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+3623,3681,China,37,female,cough,28/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"3624,3682,China,75,male,""cough, dyspnea"",22/01/2020,24/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4051,4109,China,39,male,""cough, fever"",19/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4091,4149,China,28,female,""cough, fever"",28/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4092,4150,China,37,male,""fever, pharyngeal discomfort"",20/01/2020,23/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4093,4151,China,51,female,""chills, headache, fever"",24/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4094,4152,China,45,female,""fever, sore throat, sputum"",25/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4095,4153,China,27,female,""cough, fever"",28/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+4096,4154,China,32,male,fever,24/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4097,4155,China,35,male,physical discomfort,30/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4222,4280,China,31,male,discomfort,19/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4223,4281,China,66,female,weakness,24/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4225,4283,China,32,male,fever,24/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"4226,4284,China,60,male,""fever,  cough"",28/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4509,4567,China,40,male,""chest tightness, fever, nausea"",29/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+4797,4867,Vietnam,73,male,respiratory symptoms,26/01/2020,31/01/2020,discharge,21/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"4798,4868,Vietnam,25,female,""cough, fever"",18/01/2020,27/01/2020,discharge,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4800,4870,Philippines,44,male,""cough, sore throat"",,,died,01/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4807,4877,South Korea,28,male,""cough, fever"",26/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4808,4878,South Korea,62,female,""cough, fever, muscle ache"",21/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4816,4886,Japan,20-29,female,""cough, runny nose"",20/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+4817,4887,Japan,30-39,male,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4818,4888,Japan,50-59,male,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"4819,4889,Japan,40-49,male,""cough, fever"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"4820,4890,Japan,40-49,male,""cough, fever"",26/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+4821,4891,Japan,30-39,male,asymptomatic,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4822,4892,United States,20-29,male,runny nose,28/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+4830,4900,Singapore,47,female,fever,30/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"4833,4903,China,80,male,""cough, fever"",19/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5050,5120,China,26,male,""cough, fever"",26/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5051,5121,China,73,female,fever,28/01/2020,31/01/2020,death,09/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5052,5122,China,44,male,""cough, fever, sputum"",23/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5053,5123,China,36,male,""cough, fever"",24/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5054,5124,China,38,female,""cough, fever"",27/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5056,5126,China,64,female,""cough, sputum"",23/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5057,5127,China,59,male,""cough, sore throat, sputum"",24/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5058,5128,China,39,female,fever,30/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5059,5129,China,46,female,""chills, fatigue"",28/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5091,5161,China,72,female,cough,01/02/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5129,5199,China,47,male,""fever,  dry cough,  fatigue"",26/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5696,5766,China,47,male,lesions on chest radiographs,,,stable,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5709,5779,China,42,female,fever,31/01/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5710,5780,China,66,female,fever,02/02/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5711,5781,China,36,female,""cough, fever"",27/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5712,5782,China,37,female,fever,30/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5713,5783,China,46,female,""cough, fever"",31/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5714,5784,China,43,male,fever,27/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5793,6042,China,33,female,fever,,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5795,6044,China,42,female,chest tightness,,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5852,6130,Malaysia,41,male,""cough, fever"",,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5854,6132,China,59,male,""cough, fever, runny nose"",26/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5855,6133,China,29,female,""cough, fever, runny nose"",25/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5856,6134,South Korea,42,female,""cough, fever, runny nose"",25/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5858,6136,Singapore,28,female,""fever, sore throat"",29/01/2020,03/02/2020,discharge,22/02/2020,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5871,6149,China,64,female,""cough, fever"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5873,6151,Belgium,,male,no symptoms,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5901,6179,China,29,male,fever,01/02/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5902,6180,China,69,female,fever,26/01/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5903,6181,China,9,male,""cough, fever"",02/02/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+5904,6182,China,61,male,fever,25/01/2020,25/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+5953,6231,China,33,male,fever,27/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"5967,6245,China,25,male,""cough, diarrhoea, runny nose"",28/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"5983,6263,China,66,female,""cough, fever, eventually showed acute left heart failure and acute coronary syndrome"",02/02/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6068,6353,China,64,female,""cough, fever, shortness of breath"",23/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+6157,6442,China,69,male,fatigue,28/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"6223,6511,China,54,female,""fever, sore throat,  fatigue,  diarrhea"",30/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6224,6512,China,62,male,""fever,  fatigue"",29/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6225,6513,China,60,female,""fever,  sore throat, fatigue, vomiting"",02/02/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+6226,6514,China,45,female,cough,30/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+6376,6687,China,52,female,fever,,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"6428,6739,China,55,female,""chest tightness, fever"",03/02/2020,05/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6429,6740,China,48,female,""fever, joint pain, muscle soreness"",30/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+6430,6741,China,43,female,fever,03/02/2020,04/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+6431,6742,China,35,male,fever,29/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+6432,6743,China,29,male,fever,01/02/2020,04/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"6433,6744,China,51,male,""cough, fever"",02/02/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6434,6745,China,35,male,""chills, fever"",24/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6435,6746,China,28,female,""cough, fever"",29/01/2020,02/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6436,6747,China,78,female,""chest pain, nasal congestion"",22/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6437,6748,China,38,female,""cough, muscle soreness, sweating"",30/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"6438,6749,China,36,male,""cough, fever"",26/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+6588,6905,China,,,pneumonitis,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"6681,7000,United States,,,""cough, fever, shortness of breath"",,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+6749,7068,Singapore,41,male,fever,28/01/2020,03/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+6840,7163,China,22,female,fever,26/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+7268,7595,China,,,pneumonitis,,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+7294,7621,China,53,female,pneumonitis,01/02/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"7343,7670,China,60,male,""fever, myalgia, shortness of breath"",22/01/2020,30/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7544,7875,China,64,female,""cough, fever"",27/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+7545,7876,China,35,female,fever,21/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+7546,7877,China,75,male,fever,30/01/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+7547,7878,China,61,female,fever,25/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"7548,7879,Japan,50-59,female,""cough, fever, pneumonia, respiratory distress"",31/01/2020,,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7549,7880,Japan,30-39,female,""fever, runny nose"",30/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7555,7887,Japan,40-49,male,""cough, fever"",24/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+7556,7888,Japan,20-29,male,fever,24/01/2020,31/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"7560,7900,,20-29,female,""cough, respiratory problems"",,04/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7641,8904,China,42,female,""fever, cough"",28/01/2020,04/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7642,8905,China,26,female,""fever, cough"",01/02/2020,04/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7643,8906,China,37,male,""fever, dry throat, sore throat"",24/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7644,8907,China,24,male,""fever,  runny nose"",01/02/2020,01/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7647,9180,China,65,male,""fever,  cough"",13/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"7648,9181,China,38,female,""fever,  fatigue"",28/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+8117,11164,Japan,50-59,male,fever,25/01/2020,26/02/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"8127,11926,China,62,male,""fever,  fatigue"",25/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"8128,11927,China,52,female,""chest tightness,  fatigue"",16/01/2020,29/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"8147,11970,China,44,female,""cough,  fever"",22/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"8148,11971,China,55,female,""fever,  nasal congestion,  runny nose,  sore throat,  cough"",22/01/2020,26/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+8177,12030,China,1,female,fever,28/01/2020,28/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+8182,12037,China,52,female,dry cough,25/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true
+"8183,12038,China,41,male,""cough,  sore body,  cold"",16/01/2020,27/01/2020,,,https://github.com/beoutbreakprepared/nCoV2019/blob/master/covid19/data/clean-outside-hubei.csv?raw=true"
+"0,japan001,Japan,30s,,""fever, pneumonia, mild, , , "",03/01/2020,10/01/2020,discharged,15/01/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"1,japan002,Japan,40s,,""fever, fever, sore throat, pneumonia, mild, , , "",14/01/2020,22/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"2,japan003,Japan,30s,,""fever, cough, , no symptoms, , , "",21/01/2020,23/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"3,japan004,Japan,40s,,""fever, fever, joint pain, pneumonia, fever, no symptoms, , "",23/01/2020,24/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"4,japan005,Japan,40s,,""fever, malaise, fever, pneumonia, no symptoms, , "",22/01/2020,28/01/2020,discharged,06/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"5,japan006,Japan,60s,,""chills, cough, joint pain, joint pain, severe cough, positive lung image, , , "",14/01/2020,25/01/2020,discharged,08/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"6,japan007,Japan,40s,,""fever, cough, pneumonia, fever, , , "",26/01/2020,27/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"7,japan008,Japan,40s,,""fever, fever, pneumonia, respiratory symptoms, mild, cough, , , "",20/01/2020,23/01/2020,discharged,29/01/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"8,repat_japan001,Japan,50s,,""fever, runny nose, sore throat, fever, sore throar, , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"9,japan_asmyp001,Japan,40s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"10,japan_asmyp002,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"11,japan009,Japan,50s,,""fever, high fever, pneumonia, fever, mild, pneumonia, recovering, , "",25/01/2020,29/01/2020,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"12,japan010,Japan,30s,,""fever, cough, pneumonia, , , , "",24/01/2020,30/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"13,japan011,Japan,20s,,""cough, cough, fever, cough, fever, , , "",23/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"14,japan012,Japan,20s,,""cough, runny nose, , , , , "",20/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"15,japan_asymp003,Japan,30s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"16,repat_japan006,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"17,repat_japan002,Japan,40s,,""cough, fever, , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"18,repat_japan003,Japan,40s,,""cough, fever, cough, , , , "",26/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"19,japan_asymp005,Japan,30s,,"", , , , , "",01/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"20,repat_japan004,Japan,40s,,"", , , , , "",02/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"21,japan013,Japan,30s,,""fever, runny nose, pneumonia, , , , "",30/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"22,repat_japan005,Japan,50s,,""fever, cough, pneumonia, breathing difficulties, , , , "",31/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"23,japan014,Japan,50s,,""fever, pneumonia, , , , , "",26/01/2020,26/01/2020,discharged,06/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"24,japan015,Japan,40s,,""cough, fever, cough, cough, , , "",24/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"25,japan016,Japan,20s,,""fever, cough, pneumonia, mild, , , "",24/01/2020,31/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"26,repat_japan006_duplicate,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"27,repat_japan007,Japan,20s,,""fever, mild pneumonia, , , , , "",07/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"28,repat_japan008,Japan,40s,,""fever, pneumonia, fever, , , "",08/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"29,repat_japan009,Japan,50s,,""fever, cough, , , , , "",07/02/2020,07/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"30,japan017,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"31,japan018,Japan,80s,,""fatigue, worsening fatigue, worsening lack of appetite, worsening fatigue, pneumonia, breathing difficulties, positive pressure ventilation, severe breathing difficulties, "",22/01/2020,01/02/2020,died,13/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"32,japan019,Japan,70s,,""fever, fever, pneumonia, , , , "",29/01/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"33,japan020,Japan,50s,,""fever, fatigue, stomach ache, diarrhoea, fever, pneumonia, , , "",31/01/2020,10/02/2020,discharged,16/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"34,japan021,Japan,20s,,""fever, cough, pneumonia, , , "",02/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"35,japan022,Japan,70s,,""cold-like symptoms, vomitting, fever, pneumonia, severe pneumonia, oxygen, breathing difficulties, icu, worsening breathing difficulties, "",01/02/2020,06/02/2020,died,28/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"36,japan023,Japan,60s,,""cough, joint pain, pneumonia, , , , "",05/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"37,japan024,Japan,50s,,""vomitting, diarrhoea, fever, cough, , , , "",04/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"38,japan025,Japan,70s,,""fatigue, fever, lack of appetite, breathing difficulties, positive pressure ventilation, , , "",20/01/2020,27/01/2020,discharged,13/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"39,japan026,Japan,60s,,""ili, fever, lack of appetite, pneumonia, unstable balance, , "",03/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"40,japan027,Japan,50s,,""fever, cough, fatigue, pneumonia, pneumonia, breathing difficulties, mechanical ventilation, icu, , "",31/01/2020,11/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"41,japan028,Japan,30s,,""fever, no symptoms, , , , "",10/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"42,japan029,Japan,50s,,""fever, fever, positive lung image, pneumonia, , "",04/02/2020,14/02/2020,discharged,19/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"43,japan030,Japan,50s,,""fever, fever, cough, , , , "",07/02/2020,,discharged,20/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"44,japan031,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"45,japan_noid1,Japan,50s,,"", , , , , "",,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"46,japan_noid2,Japan,60s,,""fever, fever, cough, pneumonia, stable, , "",03/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"47,japan_noid3,Japan,50s,,""fever, fever, pneumonia, stable, , , "",07/02/2020,16/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"48,japan032,Japan,40s,,""cough, fever, symptoms not resolved, , , "",02/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"49,japan033,Japan,60s,,"", , , , , "",,15/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"50,japan034,Japan,60s,,""fever, headache, , , , , "",14/02/2020,15/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"51,japan035,Japan,60s,,""fever, , , , , "",15/02/2020,16/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"52,japan036,Japan,30s,,""fever, fatigue, pneumonia, , , , "",03/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"53,japan037,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"54,japan038,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"55,japan039,Japan,40s,,""fever, vomitting, diarrhoea, , , , "",14/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"56,japan040,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"57,japan041,Japan,80s,,"", , , , , "",,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"58,japan042,Japan,50s,,""fever, fever, pneumonia, , , , "",07/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"59,japan043,Japan,50s,,""fever, fever, cough, pneumonia, , , "",03/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"60,japan044,Japan,60s,,""fever, fatigue, pneumonia, , , , , "",17/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"61,japan045,Japan,60s,,""fever, , , , , "",16/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"62,japan046,Japan,30s,,""fever, fever, , , , "",16/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"63,japan_asymp_waka1,Japan,10s,,"", , , , , "",,17/02/2020,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"64,japan047,Japan,80s,,""loss of appetite, fever, breathing difficulties, intubated, icu, , "",09/02/2020,13/02/2020,died,26/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"65,japan048,Japan,20s,,"", , , , , "",07/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"66,japan049,Japan,50s,,"", , , , , "",05/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"67,japan050,Japan,60s,,""fever, cough, , , , , "",17/02/2020,18/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"68,japan051,Japan,80s,,""coughing blood, mild fever, fever, pneumonia, breathing difficulties, , "",06/02/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"69,japan052,Japan,70s,,""fever, cough, cough, , , , "",14/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"70,japan053,Japan,60s,,""fever, , , , , "",03/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"71,japan054,Japan,40s,,""fatigue, muscle pain, joint pain, fever, pneumonia, , , "",08/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"72,japan055,Japan,60s,,""fever, sore throat, fever, pneumonia, , , , "",03/02/2020,18/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"73,japan056,Japan,60s,,""fever, breathing difficulties, fatigue, severe pneumonia, , , "",11/02/2020,18/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"74,japan057,Japan,70s,,"", , , , , "",04/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"75,japan058,Japan,70s,,"", , , , , "",04/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"76,japan059,Japan,70s,,"", , , , , "",03/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"77,japan060,Japan,50s,,""fever, fatigue, fever, fatigue, , , , "",17/02/2020,18/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"78,repat_japan010,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"79,japan061,Japan,60s,,""fever, fever, pneumonia, , , , "",13/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"80,japan062,Japan,40s,,""chills, cold sweats, fatigue, muscle pain, joint pain, fever, muscle pain, cough, sputum, , , , "",15/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"81,japan063,Japan,70s,,""fever, bronchitis, pneumonia, , , "",14/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"82,japan064,Japan,80s,,""fever, fever, fatigue, loss of appetite, pneumonia, diarrhoea, , , , "",06/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"83,japan065,Japan,,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"84,japan066,Japan,,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"85,japan067,Japan,80s,,""fever, , , , , "",19/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"86,japan068,Japan,80s,,""fever, fever, , , , "",12/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"87,japan069,Japan,60s,,""chills, fever, pneumonia, , , "",17/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"88,japan070,Japan,<10,,""fever, , , , , "",15/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"89,japan071,Japan,10s,,""fever, , , , , "",18/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"90,japan072,Japan,40s,,""fever, fever, , , , "",16/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"91,japan073,Japan,50s,,""fever, fever, fatigue, pneumonia, , , "",16/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"92,repat_japan011,Japan,<10,,""fever, cough, , , , , "",10/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"93,japan074,Japan,50s,,"", , , , , "",10/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"94,japan075,Japan,70s,,"", , , , , "",01/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"95,japan076,Japan,50s,,"", , , , , "",04/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"96,japan077,Japan,60s,,""fatigue, loss of appetite, pneumonia, , , , "",06/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"97,japan078,Japan,80s,,""loss of appetite, difficulty walking, pneumonia, , , , "",18/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"98,japan079,Japan,70s,,""fever, cough, , , , , "",19/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"99,japan080,Japan,20s,,""fever, cough, breathing difficulties, , , , , "",20/02/2020,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"100,japan081,Japan,20s,,""cough, cough, fever, cough, fever, headache, nausea, vomitting, diarrhoea, , , "",17/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"101,japan082,Japan,50s,,""cough, fever, , , , "",20/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"102,japan083,Japan,60s,,""fatigue, cold-like symptoms, fever, vomitting, fever, fatigue, difficulty walking, pneumonia, , "",15/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"103,japan084,Japan,40s,,""fever, fatigue, cough, diarrhoea, , , "",02/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"104,japan085,Japan,60s,,""nausea, cough, pneumonia, fever, fever, , "",12/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"105,japan086,Japan,50s,,""fatigue, joint pain, fever, pneumonia, , , , "",16/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"106,japan087,Japan,70s,,""cough, sputum, fever, fever, sore throat, fatigue, , , "",06/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"107,japan088,Japan,80s,,""breathing difficulties, , , , , "",03/02/2020,03/02/2020,died,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"108,japan089,Japan,70s,,""fever, cough, fatigue, positive lung image, , , , "",16/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"109,japan090,Japan,50s,,"", , , , , "",17/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"110,japan091,Japan,60s,,""fever, fever, cough, fever, breathing difficulties, pneumonia, , , "",10/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"111,japan092,Japan,50s,,""fatigue, fatigue, headache, fatigue, pneumonia, , , "",15/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"112,japan093,Japan,10s,,""fever, fever, sore throat, fatigue, fever, , , "",06/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"113,japan094,Japan,50s,,""sore throat, fever, cough, fever, pneumonia, lung sounds, , , "",13/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"114,japan095,Japan,60s,,"", , , , , "",12/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"115,japan096,Japan,60s,,""fever, runny nose, headache, , , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"116,japan097,Japan,40s,,""fever, , , , , "",20/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"117,japan098,Japan,60s,,""fever, cough, fatigue, , , , , "",20/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"118,japan099,Japan,60s,,""fever, , , , , "",20/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"119,japan100,Japan,60s,,""fever, pneumonia, , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"120,japan101,Japan,50s,,""fever, fever, headache, fever, fatigue, fever, headache, , "",16/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"121,japan102,Japan,50s,,""fever, breathing difficulties, fever, fever, , , "",17/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"122,japan103,Japan,70s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"123,japan104,Japan,70s,,""fever, , , , , "",22/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"124,japan105,Japan,70s,,""fever, cough, , , , , "",21/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"125,japan106,Japan,40s,,""joint pain, muscle pain, cough, fatigue, fever, pneumonia, , "",12/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"126,japan107,Japan,30s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"127,japan108,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"128,japan109,Japan,20s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"129,japan110,Japan,70s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"130,japan111,Japan,30s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"131,japan112,Japan,80s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"132,japan113,Japan,40s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"133,japan114,Japan,20s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"134,japan115,Japan,,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"135,japan116,Japan,,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"136,japan117,Japan,60s,,""fever, sore throat, pneumonia, , , , "",16/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"137,japan118,Japan,70s,,""fever, cough, , , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"138,japan119,Japan,50s,,""chills, fever, runny nose, nausea, mild pneumonia, , , "",14/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"139,japan120,Japan,20s,,""fever, , , , , "",18/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"140,japan121,Japan,50s,,""cough, fever, , , , "",17/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"141,japan122,Japan,50s,,""fever, pneumonia, fever, fatigue, breathing difficulties, , , "",14/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"142,japan123,Japan,40s,,"", , , , , "",13/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"143,japan124,Japan,50s,,"", , , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"144,japan125,Japan,30s,,"", , , , , "",18/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"145,japan126,Japan,50s,,""cough, sputum, sore throat, diarrhoea, , , , "",20/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"146,japan127,Japan,20s,,""cough, sneezing, , , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"147,japan128,Japan,20s,,""fever, fever, chills, joint pain, sore throat, headache, , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"148,NA1,Japan,60s,,""fatigue, fever, , , , "",20/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"149,NA2,Japan,50s,,""sore throat, fever, , , , "",20/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"150,NA3,Japan,60s,,""fever, , , , , "",25/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"151,NA4,Japan,60s,,""fever, , , , , "",17/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"152,previously asymptomatic,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"153,NA5,Japan,70s,,""fever, , , , , "",20/02/2020,21/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"154,NA6,Japan,70s,,""fever, cough, , , , , "",23/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"155,NA7,Japan,40s,,""fever, runny nose, , , , , "",23/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"156,NA8,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"157,NA9,Japan,60s,,""fever, , , , , "",22/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"158,NA10,Japan,50s,,""fever, , , , , "",22/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"159,NA11,Japan,70s,,""fever, fever, cough, , , , "",12/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"160,NA12,Japan,20s,,""fatigue, fever, headache, , , , "",10/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"161,NA13,Japan,20s,,""sore throat, fever, sputum, runny nose, , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"162,NA14,Japan,70s,,""already in hospital, fever, pneumonia, mechanical ventilator, , , , , "",23/02/2020,,died,29/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"163,NA15,Japan,elderly,,""cough, pneumonia, , , , "",16/02/2020,17/02/2020,died,25/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"164,NA16,Japan,70s,,""fever, fatigue, fever, fatigue, , , , "",17/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"165,NA17,Japan,70s,,""fever, cough, , , , , "",16/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"166,NA18,Japan,40s,,""fever, cough, , , , , "",24/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"167,NA19,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"168,NA20,Japan,80s,,"", , , , , "",,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"169,NA21,Japan,40s,,""sore throat, chest pains, , , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"170,NA22,Japan,80s,,"", , , , , "",22/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"171,NA23,Japan,70s,,"", , , , , "",13/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"172,NA24,Japan,70s,,"", , , , , "",14/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"173,NA25,Japan,50s,,""fever, sore throat, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"174,NA26,Japan,60s,,""fever, , , , , "",25/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"175,NA27,Japan,70s,,""fever, cough, sore throat, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"176,NA28,Japan,70s,,""fever, cough, fatigue, , , , , "",23/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"177,NA29,Japan,70s,,""fever, cough, sore throat, runny nose, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"178,NA30,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"179,NA31,Japan,50s,,""fever, fatigue, headache, severe headache, fever, pneumonia, breathing difficulties, , "",14/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"180,NA32,Japan,50s,,""sore throat, chills, , , , , "",23/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"181,NA33,Japan,50s,,""fever, pneumonia, , , , "",16/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"182,NA34,Japan,50s,,""fever, headache, fatigue, pneumonia, fever, headache, cough, , , "",20/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"183,NA35,Japan,60s,,"", , , , , "",10/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"184,NA36,Japan,40s,,""fever, cough, fever, cough, headache, , , , "",20/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"185,NA37,Japan,50s,,""fever, , , , , "",25/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"186,NA38,Japan,50s,,""fever, cough, fatigue, , , , , "",25/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"187,NA39,Japan,30s,,""sore throat, fever, , , , "",16/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"188,NA40,Japan,70s,,""fatigue, fever, pneumonia, , , "",16/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"189,NA41,Japan,60s,,""fever, sore throat, joint pain, breathing difficulties, fever, breathing difficulties, fatigue, , , "",18/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"190,NA42,Japan,40s,,""vomitting, cough, fever, sore throat, fever, breathing difficulties, , "",15/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"191,NA43,Japan,40s,,""fever, fever, joint pain, , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"192,NA44,Japan,<10,,"", cough, fever, cough, , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"193,NA45,Japan,30s,,""fever, headache, fatigue, joint pain, fever, , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"194,NA46,Japan,<10,,""fever, cough, fever, , , , "",21/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"195,NA47,Japan,80s,,""fever, cough, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"196,NA48,Japan,30s,,""cough, fever, joint pain, , , , "",20/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"197,NA49,Japan,80s,,""cough, fever, fever, , , "",22/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"198,NA50,Japan,60s,,""fever, sore throat, fatigue, fever, sore throat, fatigue, , , , "",22/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"199,NA51,Japan,40s,,""cough, sore throat, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"200,NA52,Japan,60s,,""fever, , , , , "",26/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"201,NA53,Japan,60s,,""fever, cough, headache, , , , , "",26/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"202,NA54,Japan,30s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"203,NA55,Japan,40s,,""chills, headache, fatigue, fever, continued fever, fatigue, pneumonia, , , "",18/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"204,NA56,Japan,20s,,""fever, fever, sore throat, , , , "",20/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"205,NA57,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"206,NA58,Japan,80s,,""cough, sputum, fever, , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"207,NA59,Japan,<10,,""fever, , , , , "",18/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"208,NA60,Japan,80s,,""fever, fatigue, difficulties walking, , , , "",25/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"209,NA61,Japan,60s,,""cough, , , , , "",19/02/2020,28/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"210,NA62,Japan,60s,,""fever, , , , , "",21/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"211,NA63,Japan,60s,,""chills, fever, fatigue, fever, , , "",18/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"212,NA64,Japan,60s,,""cough, sputum, fever, cough, breathing difficulties, , , , "",19/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"213,NA65,Japan,40s,,""fever, , , , , "",12/02/2020,18/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"214,NA66,Japan,70s,,""fever, , , , , "",20/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"215,NA67,Japan,60s,,"", , , , , "",,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"216,NA68,Japan,60s,,""fever, cough, , , , , "",20/02/2020,28/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"217,NA69,Japan,60s,,""fever, pneumonia, , , , "",18/02/2020,28/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"218,NA70,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"219,NA71,Japan,60s,,""fever, , , , , "",27/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"220,NA72,Japan,40s,,""sore throat, cough, fever, fatigue, , , , "",19/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"221,NA73,Japan,<10,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"222,NA74,Japan,30s,,""sore throat, fever, cough, runny nose, pneumonia, , , "",13/02/2020,29/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"223,NA75,Japan,60s,,""fever, cough, fever, fatigue, loss of appetite, , , , "",25/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"224,NA76,Japan,70s,,""fever, sore throat, , , , , "",28/02/2020,28/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"225,NA77,Japan,20s,,"", , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"226,NA78,Japan,90s,,""cough, runny nose, fever, breathing difficulties, fatigue, , , "",20/02/2020,27/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"227,NA79,Japan,60s,,""cough, fatigue, joint pain, , , , , "",21/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"228,NA80,Japan,30s,,""fever, headache, fatigue, fever, pneumonia, , , , "",19/02/2020,28/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"229,NA81,Japan,20s,,"", pneumonia, , , , "",21/02/2020,29/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"230,NA82,Japan,70s,,""fever, cough, vomitting, pneumonia, , , , , "",23/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"231,japan_noid4,Japan,60s,,""fever, , , , , "",15/02/2020,16/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"232,tokyotaxi001,Japan,80s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"233,tokyotaxi002,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"234,tokyotaxi003,Japan,50s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"235,tokyotaxi004,Japan,70s,,""fever, pneumonia, fever, , , , "",29/01/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"236,tokyotaxi005,Japan,70s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"237,tokyotaxi006,Japan,40s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"238,tokyotaxi007,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"239,tokyotaxi008,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"240,tokyotaxi009,Japan,30s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"241,tokyotaxi_asymp001,Japan,60s,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"242,tokyo_1,Japan,50s,,""vomitting, diarrhoea, fever, cough, , , , "",04/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"243,tokyo_2,Japan,70s,,""fatigue, fever, cough, diarrhoea, , , , "",20/01/2020,27/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"244,tokyo_4,Japan,60s,,""fever, fatigue, , , , , "",06/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"245,singapore001,Singapore,66,,""fever, cough, pneumonia, stable, , , "",20/01/2020,22/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"246,singapore002,Singapore,53,,""fever, cough, pneumonia, stable, , , "",21/01/2020,22/01/2020,discharged,07/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"247,singapore003,Singapore,37,,"", stable, stable, , , "",23/01/2020,23/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"248,singapore004,Singapore,36,,""cough, stable, stable, , , "",23/01/2020,24/01/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"249,singapore005,Singapore,56,,"", stable, stable, , , "",24/01/2020,26/01/2020,discharged,18/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"250,singapore006,Singapore,56,,"", stable, stable, , , "",25/01/2020,26/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"251,singapore007,Singapore,35,,"", stable, stable, , , "",24/01/2020,24/01/2020,discharged,04/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"252,singapore008,Singapore,56,,"", stable, stable, , , "",24/01/2020,27/01/2020,discharged,18/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"253,singapore009,Singapore,56,,"", stable, stable, , , "",24/01/2020,27/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"254,singapore010,Singapore,56,,"", stable, stable, , , "",21/01/2020,28/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"255,singapore011,Singapore,31,,"", stable, , , , "",27/01/2020,27/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"256,singapore012,Singapore,37,,"", stable, , , , "",26/01/2020,,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"257,singapore013,Singapore,73,,"", stable, , , , "",28/01/2020,28/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"258,singapore014,Singapore,31,,"", stable, , , , "",28/01/2020,30/01/2020,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"259,singapore015,Singapore,47,,""fever, stable, , , , "",30/01/2020,30/01/2020,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"260,singapore016,Singapore,38,,"", stable, , , , "",23/01/2020,29/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"261,singapore017,Singapore,47,,""fever, stable, , , , "",30/01/2020,30/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"262,singapore018,Singapore,31,,"", stable, , , , "",30/01/2020,31/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"263,singapore019,Singapore,28,,""sore throat, fever, pneumonia, , , , "",29/01/2020,03/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"264,singapore020,Singapore,48,,"", , , , , "",25/01/2020,03/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"265,singapore021,Singapore,44,,"", , , , , "",02/02/2020,03/02/2020,discharged,18/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"266,singapore022,Singapore,41,,"", , , , , "",asymptomatic,03/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"267,singapore023,Singapore,17,,"", , , , , "",asymptomatic,03/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"268,singapore024,Singapore,32,,""fever, , , , , "",30/01/2020,03/02/2020,discharged,15/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"269,singapore025,Singapore,40,,""fever, , , , , "",24/01/2020,03/02/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"270,singapore026,Singapore,42,,"", , , , , "",,28/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"271,singapore027,Singapore,47,,"", , , , , "",01/02/2020,04/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"272,singapore028,Singapore,0.5,,"", , , , , "",,05/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"273,singapore029,Singapore,41,,""fever, stable, , , , "",28/01/2020,03/02/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"274,singapore030,Singapore,27,,""fever, stable, , , , "",21/01/2020,06/02/2020,discharged,14/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"275,singapore031,Singapore,53,,"", , , , , "",23/01/2020,01/02/2020,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"276,singapore032,Singapore,42,,"", , , , , "",02/02/2020,05/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"277,singapore033,Singapore,39,,"", , , , , "",30/01/2020,02/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"278,singapore034,Singapore,40,,"", , , , , "",27/01/2020,06/02/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"279,singapore035,Singapore,64,,"", , , , , "",30/01/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"280,singapore036,Singapore,38,,"", , , , , "",24/01/2020,04/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"281,singapore037,Singapore,53,,"", , , , , "",30/01/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"282,singapore038,Singapore,52,,"", , , , , "",03/02/2020,07/02/2020,discharged,18/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"283,singapore039,Singapore,51,,"", , , , , "",29/01/2020,06/02/2020,discharged,16/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"284,singapore040,Singapore,36,,"", , , , , "",30/01/2020,07/02/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"285,singapore041,Singapore,71,,"", , , , , "",01/02/2020,07/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"286,singapore042,Singapore,39,,"", , , , , "",01/02/2020,07/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"287,singapore043,Singapore,54,,"", , , , , "",30/01/2020,07/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"288,singapore044,Singapore,37,,"", , , , , "",31/01/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"289,singapore045,Singapore,2,,"", , , , , "",,07/02/2020,discharged,15/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"290,singapore046,Singapore,35,,"", , , , , "",05/02/2020,09/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"291,singapore047,Singapore,39,,"", , , , , "",06/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"292,singapore048,Singapore,34,,"", , , , , "",01/02/2020,,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"293,singapore049,Singapore,46,,"", , , , , "",03/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"294,singapore050,Singapore,62,,"", , , , , "",07/02/2020,11/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"295,singapore051,Singapore,48,,"", , , , , "",04/02/2020,11/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"296,singapore052,Singapore,37,,"", , , , , "",07/02/2020,11/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"297,singapore053,Singapore,54,,"", , , , , "",10/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"298,singapore054,Singapore,54,,"", , , , , "",,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"299,singapore055,Singapore,30,,"", , , , , "",,20/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"300,singapore056,Singapore,30,,"", , , , , "",,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"301,singapore057,Singapore,26,,"", , , , , "",,11/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"302,singapore058,Singapore,55,,"", , , , , "",,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"303,singapore059,Singapore,59,,"", , , , , "",07/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"304,singapore060,Singapore,51,,"", , , , , "",08/02/2020,08/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"305,singapore061,Singapore,57,,"", , , , , "",06/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"306,singapore062,Singapore,44,,"", , , , , "",09/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"307,singapore063,Singapore,54,,"", , , , , "",10/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"308,singapore064,Singapore,50,,"", , , , , "",03/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"309,singapore065,Singapore,61,,"", , , , , "",12/02/2020,12/02/2020,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"310,singapore066,Singapore,28,,"", , , , , "",29/01/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"311,singapore067,Singapore,56,,"", , , , , "",09/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"312,singapore068,Singapore,79,,"", , , , , "",30/01/2020,14/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"313,singapore069,Singapore,26,,"", , , , , "",11/02/2020,14/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"314,singapore070,Singapore,27,,"", , , , , "",03/02/2020,14/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"315,singapore071,Singapore,25,,"", , , , , "",01/02/2020,15/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"316,singapore072,Singapore,40,,"", , , , , "",10/02/2020,14/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"317,singapore073,Singapore,43,,"", , , , , "",09/02/2020,14/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"318,singapore074,Singapore,29,,"", , , , , "",12/02/2020,15/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"319,singapore075,Singapore,71,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"320,singapore076,Singapore,1,,"", , , , , "",,,discharged,18/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"321,singapore077,Singapore,35,,"", , , , , "",10/02/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"322,singapore078,Singapore,57,,"", , , , , "",09/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"323,singapore079,Singapore,35,,"", , , , , "",12/02/2020,17/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"324,singapore080,Singapore,38,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"325,singapore081,Singapore,50,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"326,southkorea001,South Korea,36,,""fever, headache, pneumonia, stable, , , "",18/01/2020,,discharged,06/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"327,southkorea002,South Korea,55,,""cough, sore throat, fever, cough, sore throat,  no respiratory symptoms, worse sore throat, bronchitis, image positive, stable, , sore throat, cough, X ray"",10/01/2020,23/01/2020,discharged,05/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"328,southkorea003,South Korea,54,,""fever, chill, cough, sputum, stable, , , "",22/01/2020,25/01/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"329,southkorea004,South Korea,55,,""cold symptoms, fever, muscle pain, pneumonia, severe, stable, "",21/01/2020,25/01/2020,discharged,09/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"330,southkorea005,South Korea,33,,""cough, malaise, stable, , , "",,30/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"331,southkorea006,South Korea,55,,"", stable, , , , "",,30/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"332,southkorea007,South Korea,28,,""mild cough, malaise, fever, cough, sputum, stable, , "",26/01/2020,30/01/2020,discharged,15/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"333,southkorea008,South Korea,62,,""muscle pain, stable, , , , "",22/01/2020 or earlier,,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"334,southkorea009,South Korea,28,,"", stable, , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"335,southkorea010,South Korea,52,,""headache, stable, , , , "",29/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"336,southkorea011,South Korea,25,,""chills, stable, , , , "",30/01/2020,,discharged,10/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"337,southkorea012,South Korea,49,,"", stable, , , , "",,01/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"338,southkorea013,South Korea,28,,"", stable, , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"339,southkorea014,South Korea,40,,"", stable, , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"340,southkorea015,South Korea,43,,"", stable, , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"341,southkorea016,South Korea,42,,""chills, symptoms persisted, pneumonia, worsening prognosis, , , "",25/01/2020,03/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"342,southkorea017,South Korea,38,,"", , , , , "",,04/02/2020,discharged,12/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"343,southkorea018,South Korea,21,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"344,southkorea019,South Korea,36,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"345,southkorea020,South Korea,41,,""sore throat, , , , , "",05/02/2020 or earlier,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"346,southkorea021,South Korea,59,,""sore throat, , , , , "",05/02/2020 or earlier,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"347,southkorea022,South Korea,46,,"", , , , , "",,,discharged,15/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"348,southkorea023,South Korea,58,,""fever, , , , , "",02/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"349,southkorea024,South Korea,28,,""sore throat, , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"350,southkorea025,South Korea,74,,""fever, sore throat, cough, , , , , "",06/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"351,southkorea026,South Korea,51,,""sore throat, , , , , "",08/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"352,southkorea027,South Korea,37,,""cough, , , , , "",24/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"353,southkorea028,South Korea,30,,"", , , , , "",,,discharged,17/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"354,southkorea029,South Korea,81,,""cough, fever, chest pain, pneumonia, , , , "",05/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"355,hk001,HK SAR,39,,""fever, nasal congestion, , , , , "",21/01/2020,21/01/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"356,hk002,HK SAR,56,,""fever, , , , , "",18/01/2020,21/01/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"357,hk003,HK SAR,62,,""fever, cough, , , , , "",20/01/2020,24/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"358,hk004,HK SAR,62,,""fever, , , , , "",23/01/2020,23/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"359,hk005,HK SAR,63,,""cough, fever, , , , "",23/01/2020,23/01/2020,discharged,20/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"360,hk006,HK SAR,47,,""fever, , , , , "",20/01/2020,25/01/2020,discharged,19/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"361,hk007,HK SAR,68,,""fever, cough, , , , , "",21/01/2020,25/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"362,hk008,HK SAR,64,,""fever, , , , , "",25/01/2020,25/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"363,hk009,HK SAR,73,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"364,hk010,HK SAR,72,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"365,hk011,HK SAR,37,,""cough, , , , , "",28/01/2020,30/01/2020,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"366,hk012,HK SAR,75,,""cough, shortness of breath, , , , , "",22/01/2020,24/01/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"367,hk013,HK SAR,39,,""myalgia, fever, , , , "",29/01/2020,,died,04/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"368,hk014,HK SAR,80,,""cough, , , , , "",19/01/2020,30/01/2020,discharged,19/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"369,hk015,HK SAR,72,,""fever, cough, , , , , "",01/02/2020,01/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"370,hk016,HK SAR,64,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"371,hk017,HK SAR,60,,"", , , , , "",,,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"372,hk018,HK SAR,25,,"", , , , , "",,,discharged,13/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"373,hk019,HK SAR,28,,""cough, sore throat, fever, , , , "",30/01/2020,04/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"374,hk020,HK SAR,56,,""fever, , , , , "",04/02/2020,04/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"375,hk021,HK SAR,56,,""fever, cough, sputum, sore throat, , , , , "",30/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"376,hk022,HK SAR,55,,""sore throat, fever, diarrhea, , , , "",01/02/2020,05/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"377,hk023,HK SAR,63,,""cough, malaise, , , , , "",26/01/2020,05/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"378,hk024,HK SAR,65,,""fever, cough, , , , , "",28/01/2020,05/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"379,hk025,HK SAR,58,,""fever, cough, , , , , "",04/02/2020,06/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"380,hk026,HK SAR,42,,""fever, cough, , , , , "",03/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"381,hk027,HK SAR,24,,""fever, cough, , , , , "",30/01/2020,08/02/2020,discharged,16/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"382,hk028,HK SAR,70,,""cough, chill, shortness of breath, diarrhea, , , , "",30/01/2020,08/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"383,hk029,HK SAR,91,,"", , , , , "",29/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"384,hk030,HK SAR,68,,"", , , , , "",01/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"385,hk031,HK SAR,57,,"", , , , , "",29/01/2020,,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"386,hk032,HK SAR,22,,"", , , , , "",30/01/2020,,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"387,hk033,HK SAR,50,,"", , , , , "",05/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"388,hk034,HK SAR,25,,"", , , , , "",02/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"389,hk035,HK SAR,51,,"", , , , , "",28/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"390,hk036,HK SAR,23,,"", , , , , "",07/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"391,hk037,HK SAR,55,,""fever, cough, runny nose, , , , , "",30/01/2020,09/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"392,hk038,HK SAR,69,,""cough, shortness of breath, , , , "",30/01/2020,09/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"393,hk039,HK SAR,63,,""cough, , , , , "",30/01/2020,,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"394,hk040,HK SAR,86,,""cough, , , , , "",28/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"395,hk041,HK SAR,52,,""cough, sore throat, , , , , "",08/02/2020,09/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"396,hk042,HK SAR,62,,""cough, , , , , "",03/02/2020,09/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"397,hk043,HK SAR,59,,""fever, cough, shortness of breath, , , , , "",02/02/2020,10/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"398,hk044,HK SAR,60,,""cough, , , , , "",01/02/2020,10/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"399,hk045,HK SAR,71,,""cough, fever, shortness of breath, , , , , "",05/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"400,hk046,HK SAR,75,,""fever, cough, , , , , "",03/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"401,hk047,HK SAR,66,,""sore throat, chill, cough, fever, , , "",31/01/2020,10/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"402,hk048,HK SAR,37,,""fever, cough, sore throat, , , , , "",02/02/2020,,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"403,hk049,HK SAR,37,,""fever, cough, , , , , "",30/01/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"404,hk050,HK SAR,51,,""fever, , , , , "",03/02/2020,10/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"405,hk051,HK SAR,43,,""cough, diarrhea, vomiting, , , , "",29/01/2020,12/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"406,hk052,HK SAR,67,,""cough, fever, chill, , , , "",31/01/2020,12/02/2020,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"407,hk053,HK SAR,37,,""fever, , , , , "",08/02/2020,12/02/2020,discharged,22/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"408,hk054,HK SAR,41,,""cough, , , , , "",03/02/2020,13/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"409,hk055,HK SAR,70,,""malaise, shortness of breath, cough, fever, , , , "",02/02/2020,12/02/2020,died,19/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"410,hk056,HK SAR,61,,""cough, epigastric pain, fever, shortness of breath, , , , "",10/02/2020,13/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"411,hk057,HK SAR,54,,""fever, cough, , , , , "",07/02/2020,15/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"412,hk058,HK SAR,69,,""cough, shortness of breath, , , , "",08/02/2020,16/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"413,hk059,HK SAR,45,,""fever, sore throat, fever, , , , "",12/02/2020,16/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"414,hk060,HK SAR,46,,""runny nose, cough, , , , "",08/02/2020,16/02/2020,discharged,27/02/2020,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"415,hk061,HK SAR,32,,"", , , , , "",02/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"416,hk062,HK SAR,58,,"", , , , , "",11/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"417,hk063,HK SAR,83,,""runny nose, , , , , "",14/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"418,hk064,HK SAR,68,,""cough, , , , , "",12/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"419,hk065,HK SAR,70,,""cough, , , , , "",12/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"420,hk066,HK SAR,75,,""cough, dyspnea, , , , , "",25/01/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"421,hk067,HK SAR,38,,""fever, cough, , , , , "",10/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"422,hk068,HK SAR,58,,""fever, cough, , , , , "",08/02/2020,19/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"423,hk069,HK SAR,48,,""fever, cough, , , , , "",18/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"424,hk070,HK SAR,96,,""fever, cough, , , , , "",13/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"425,hk071,HK SAR,68,,""fever, cough, , , , , "",20/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"426,hk072,HK SAR,62,,""fever, cough, , , , , "",10/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"427,hk073,HK SAR,80,,""cough, sore throat, , , , , "",08/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"428,hk074,HK SAR,76,,""muscle pain, fever, , , , , "",13/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"429,hk075,HK SAR,35,,""fever, cough, , , , , "",19/02/2020,22/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"430,hk076,HK SAR,57,,""sore throat, fever, , , , "",08/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"431,hk077,HK SAR,68,,""cough, , , , , "",19/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"432,hk078,HK SAR,59,,""fever, headache, , , , , "",24/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"433,hk079,HK SAR,58,,""sore throat, , , , , "",04/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"434,hk080,HK SAR,57,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"435,hk081,HK SAR,57,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"436,hk082,HK SAR,33,,""fever, cough, , , , "",20/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"437,hk083,HK SAR,55,,""cough, , , , , "",17/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"438,hk084,HK SAR,24,,"", , , , , "",,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"439,hk085,HK SAR,60,,""cough, , , , , "",12/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"440,hk086,HK SAR,49,,""cough, sore throat, , , , , "",18/02/2020,23/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"441,hk087,HK SAR,21,,""fever, , , , , "",12/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"442,hk088,HK SAR,16,,""runny nose, , , , , "",17/02/2020,,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"443,hk089,HK SAR,80,,""fever, cough, , , , , "",25/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"444,hk090,HK SAR,29,,""fever, , , , , "",16/02/2020,25/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"445,hk091,HK SAR,26,,""fever, cough, , , , , "",20/02/2020,24/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"446,hk092,HK SAR,70,,""cough, , , , , "",13/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
+"447,hk093,HK SAR,89,,""cough, , , , , "",25/02/2020,26/02/2020,,,https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/subset_international_cases_2020_03_11.csv"
