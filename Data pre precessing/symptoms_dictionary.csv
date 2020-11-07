@@ -1,0 +1,287 @@
+original,standard symptom,symptom class
+sepsis,sepsis,systemic
+septic shock,sepsis,systemic
+nasal discharge,rhinorrhea,respiratory
+rhinorrhea,rhinorrhea,respiratory
+rhinorrhoea,rhinorrhea,respiratory
+running nose,rhinorrhea,respiratory
+runny nose,rhinorrhea,respiratory
+pneumonia,pneumonia,respiratory
+pneumonitis,pneumonia,respiratory
+pnuemonia,pneumonia,respiratory
+pulmonary inflammation,pneumonia,respiratory
+severe pneumonia,pneumonia,respiratory
+sputum,pneumonia,respiratory
+acute pharyngitis,pharyngitis,respiratory
+pharyngalgia,pharyngitis,respiratory
+pharyngeal discomfort,pharyngitis,respiratory
+pharyngeal dryness,pharyngitis,respiratory
+pharynx,pharyngitis,respiratory
+sore throa,pharyngitis,respiratory
+sore throat,pharyngitis,respiratory
+sore throath,pharyngitis,respiratory
+throat discomfort,pharyngitis,respiratory
+general pain,pain,systemic
+abdominal pain,other_unspecified,unspecified
+anorexia,other_unspecified,unspecified
+chest discomfort,other_unspecified,unspecified
+chest distress,other_unspecified,unspecified
+chest pain,other_unspecified,unspecified
+chest tightness,other_unspecified,unspecified
+colds,other_unspecified,unspecified
+contact of hcov_19/brazil/spbr_01/2020,other_unspecified,unspecified
+covid_19 related symptoms,other_unspecified,unspecified
+difficulty walking,other_unspecified,unspecified
+discharge,other_unspecified,unspecified
+discomfort,other_unspecified,unspecified
+grasp,other_unspecified,unspecified
+headache,other_unspecified,unspecified
+headache.,other_unspecified,unspecified
+inapatence,other_unspecified,unspecified
+inappetance,other_unspecified,unspecified
+other symptoms,other_unspecified,unspecified
+pain,other_unspecified,unspecified
+physical discomfort,other_unspecified,unspecified
+sweating,other_unspecified,unspecified
+symptoms associated,other_unspecified,unspecified
+toothache,other_unspecified,unspecified
+aches,other_systemic,systemic
+body ache,other_systemic,systemic
+body aches,other_systemic,systemic
+chills,other_systemic,systemic
+cold chills,other_systemic,systemic
+full body slump,other_systemic,systemic
+multiple electrolyte imbalance,other_systemic,systemic
+poor physical condition,other_systemic,systemic
+sensation of chill,other_systemic,systemic
+sore body,other_systemic,systemic
+a respiratory condition,other_respiratory,respiratory
+acute respiratory disease syndrome,other_respiratory,respiratory
+acute respiratory viral infection,other_respiratory,respiratory
+acute respiratory viral infection (arvi),other_respiratory,respiratory
+aggressive pulmonary symptomatology,other_respiratory,respiratory
+cold,other_respiratory,respiratory
+coriza,other_respiratory,respiratory
+dry mouth,other_respiratory,respiratory
+dry throat,other_respiratory,respiratory
+e sintomas respirat‚àö‚â•rios moderados,other_respiratory,respiratory
+hypoxia,other_respiratory,respiratory
+lesions on chest radiographs,other_respiratory,respiratory
+little sputum,other_respiratory,respiratory
+mild resipiratory symptoms,other_respiratory,respiratory
+mild respiratory symptoms,other_respiratory,respiratory
+nasal congestion,other_respiratory,respiratory
+phlegm,other_respiratory,respiratory
+pleural effusion,other_respiratory,respiratory
+pleuritic chest pain,other_respiratory,respiratory
+respiratory complaints,other_respiratory,respiratory
+respiratory distress,other_respiratory,respiratory
+respiratory problems,other_respiratory,respiratory
+respiratory problems (lungs),other_respiratory,respiratory
+respiratory stress,other_respiratory,respiratory
+respiratory symptoms,other_respiratory,respiratory
+severe acute respiratory infection,other_respiratory,respiratory
+similar to a respiratory infection,other_respiratory,respiratory
+sneeze,other_respiratory,respiratory
+sneezing,other_respiratory,respiratory
+wheezing,other_respiratory,respiratory
+conjunctivitis,other_ocular,ocular
+conjuntivitis,other_ocular,ocular
+eye irritation,other_ocular,ocular
+dizziness,other_neurological,neurological
+obnubilation,other_neurological,neurological
+somnolence,other_neurological,neurological
+aching muscles,other_musculoskeletal,musculoskeletal
+backache,other_musculoskeletal,musculoskeletal
+bone pain,other_musculoskeletal,musculoskeletal
+joint muscle pain,other_musculoskeletal,musculoskeletal
+rigor,other_musculoskeletal,musculoskeletal
+sore muscle,other_musculoskeletal,musculoskeletal
+joint pain,other_musculoskeletal,musculoskeletal
+sore limbs,other_musculoskeletal,musculoskeletal
+primary myelofibrosis,other_musculoskeletal,musculoskeletal
+diarrhea,other_gastrointestinal,gastrointestinal
+diarrheoa,other_gastrointestinal,gastrointestinal
+diarrhoea,other_gastrointestinal,gastrointestinal
+digestive discomfort,other_gastrointestinal,gastrointestinal
+dysphagia,other_gastrointestinal,gastrointestinal
+esophageal reflux,other_gastrointestinal,gastrointestinal
+gastritis,other_gastrointestinal,gastrointestinal
+acute coronary syndrome,other_cardiovascular,cardiovascular
+arrhythmia,other_cardiovascular,cardiovascular
+cardiac arrhythmia,other_cardiovascular,cardiovascular
+cardiogenic shock,other_cardiovascular,cardiovascular
+cardiopulmonary arrest,other_cardiovascular,cardiovascular
+congestive heart failure,other_cardiovascular,cardiovascular
+eventually showed acute left heart failure,other_cardiovascular,cardiovascular
+heart failure,other_cardiovascular,cardiovascular
+hypertension,other_cardiovascular,cardiovascular
+myocardial dysfunction,other_cardiovascular,cardiovascular
+multiple organ failure,organ failure,systemic
+mausea,nausea,gastrointestinal
+nausea,nausea,gastrointestinal
+body pain,myalgia,musculoskeletal
+mialgia,myalgia,musculoskeletal
+milagia,myalgia,musculoskeletal
+muscle,myalgia,musculoskeletal
+muscle ache,myalgia,musculoskeletal
+muscle aches,myalgia,musculoskeletal
+muscle pain,myalgia,musculoskeletal
+muscle soreness,myalgia,musculoskeletal
+muscular soreness,myalgia,musculoskeletal
+muscular stiffness,myalgia,musculoskeletal
+myalgia,myalgia,musculoskeletal
+myalgias,myalgia,musculoskeletal
+acute myocardial infarction,MI,cardiovascular
+myocardial infarction,MI,cardiovascular
+body malaise,malaise,systemic
+feeling ill,malaise,systemic
+general malaise,malaise,systemic
+malaise,malaise,systemic
+unwellness,malaise,systemic
+flu_like symptoms,ILI,systemic
+influenza,ILI,systemic
+37.1 ° c,fever,systemic
+38.7 degrees fever,fever,systemic
+febre,fever,systemic
+fever,fever,systemic
+fever  (37.0_5 ℃),fever,systemic
+fever  (37.2 ℃),fever,systemic
+fever (37 ℃),fever,systemic
+fever (37.0 ℃),fever,systemic
+fever (37.2 ° c),fever,systemic
+fever (37.4 ℃),fever,systemic
+fever (37.4 ° c),fever,systemic
+fever (37.4 degrees),fever,systemic
+fever (37.4_8),fever,systemic
+fever (37.5 ℃,fever,systemic
+fever (37.5 ℃ ～ 38.0 ℃),fever,systemic
+fever (37.5 ° c),fever,systemic
+fever (37.6 _ 38.3 degrees),fever,systemic
+fever (37.8 ℃),fever,systemic
+fever (38 ℃),fever,systemic
+fever (38 ° c),fever,systemic
+fever (38_39 ℃),fever,systemic
+fever (38_39 ° c),fever,systemic
+fever (38.0 ℃),fever,systemic
+fever (38.0 ° c),fever,systemic
+fever (38.0),fever,systemic
+fever (38.1 ° c),fever,systemic
+fever (38.2 ℃),fever,systemic
+fever (38.2℃),fever,systemic
+fever (38.3 ℃),fever,systemic
+fever (38.5 ℃),fever,systemic
+fever (38.5 degrees),fever,systemic
+fever (38.6 ℃),fever,systemic
+fever (38.7 ℃),fever,systemic
+fever (38.9℃),fever,systemic
+fever (38),fever,systemic
+fever (39 ° c),fever,systemic
+fever (39.3 ℃),fever,systemic
+fever (39.5 ℃),fever,systemic
+fever (39.9 ℃),fever,systemic
+fever (39),fever,systemic
+fever (40.3 ℃),fever,systemic
+fever 37 c,fever,systemic
+fever 37 degrees,fever,systemic
+fever 37_39 c,fever,systemic
+fever 37.1 ℃,fever,systemic
+fever 37.2,fever,systemic
+fever 37.5,fever,systemic
+fever 37.5 ℃,fever,systemic
+fever 37.5℃,fever,systemic
+fever 37.7℃,fever,systemic
+fever 37.8 ℃,fever,systemic
+fever 37.8 ° c dyspnea,fever,systemic
+fever 38,fever,systemic
+fever 38_39 c,fever,systemic
+fever 38.0,fever,systemic
+fever 38.1 ℃ cough,fever,systemic
+fever 38.2 ℃,fever,systemic
+fever 38.3,fever,systemic
+fever 38.3 ℃,fever,systemic
+fever 39.0 ℃,fever,systemic
+fever 39.3,fever,systemic
+fever 40.0,fever,systemic
+high fever,fever,systemic
+low fever (37.2 ° c),fever,systemic
+low fever (37.4 ℃),fever,systemic
+low fever 37.0 ℃,fever,systemic
+rever,fever,systemic
+slight fever,fever,systemic
+then 38 ℃),fever,systemic
+then on march 4 had feverish symptoms,fever,systemic
+fatigue,fatigue,systemic
+fatigure,fatigue,systemic
+lack of energy,fatigue,systemic
+lethargy,fatigue,systemic
+minor fatigue,fatigue,systemic
+tired,fatigue,systemic
+tiredness,fatigue,systemic
+transient fatigue,fatigue,systemic
+emesis,emesis,gastrointestinal
+vomiting.,emesis,gastrointestinal
+anhelation,dyspnea,respiratory
+breathing difficulty,dyspnea,respiratory
+difficulty breathing,dyspnea,respiratory
+difficuty breathing,dyspnea,respiratory
+dsypnea,dyspnea,respiratory
+dyspnea,dyspnea,respiratory
+gasp,dyspnea,respiratory
+severe dyspnea,dyspnea,respiratory
+shortness breath,dyspnea,respiratory
+shortness of breath,dyspnea,respiratory
+cough,cough,respiratory
+cough difficulty breathing,cough,respiratory
+cough fever,cough,respiratory
+cough symptoms,cough,respiratory
+coughing,cough,respiratory
+couh,cough,respiratory
+dcough,cough,respiratory
+dry cough,cough,respiratory
+expectoration,cough,respiratory
+mild cough,cough,respiratory
+mild coughing,cough,respiratory
+mile cough,cough,respiratory
+tosse,cough,respiratory
+unproductive cough,cough,respiratory
+general weakness,asthenia,systemic
+systemic weakness,asthenia,systemic
+weak,asthenia,systemic
+weakness,asthenia,systemic
+acute respiratory disease,ARDS,respiratory
+acute respiratory distress, ,respiratory
+acute respiratory distress syndrome,ARDS,respiratory
+acute respiratory failure,ARDS,respiratory
+severe acute respiratory distress syndrome,ARDS,respiratory
+acute kidney injury,AKD,renal
+acute renal failure,AKD,renal
+kidney failure,AKD,renal
+2/4/20,,
+3/4/20,,
+4/4/20,,
+5/4/20,,
+6/4/20,,
+8/4/20,,
+15/04/20,,
+16/04/20,,
+17/03/20,,
+21/03/20,,
+24/03/20,,
+28/03/20,,
+afebrile,,
+asymptomatic,,
+asymptomatic?,,
+between others,,
+mild,,
+mild symptoms,,
+mild to moderate,,
+moderate,,
+no clinical symptoms,,
+no respiratory symptoms,,
+no serious symptoms,,
+no symptoms,,
+none,,
+oligosymptomatic,,
+severe,,
+yes,,
